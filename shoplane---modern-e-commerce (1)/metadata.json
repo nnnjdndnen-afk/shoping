@@ -1,0 +1,5 @@
+{
+  "name": "ShopLane - Modern E-Commerce",
+  "description": "A sleek, modern online shopping application with a user-facing storefront and an integrated admin panel for product management. Built with React and Tailwind CSS, ready for Firebase integration.",
+  "requestFramePermissions": []
+}
